@@ -1,0 +1,13 @@
+header h1 a {
+    color: red;
+}
+
+.post-entry{
+    text-align: center;
+    font-size: 24px;
+}
+
+p {
+    color: purple;
+    font-size: 34px;
+}
